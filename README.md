@@ -1,0 +1,2 @@
+# SystemInformation
+System bilgilerini gösteriyor.
